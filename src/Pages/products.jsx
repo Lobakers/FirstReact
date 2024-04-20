@@ -12,7 +12,7 @@ const products = [
         description: `Step up your style game with these sleek and 
         comfortable Nike shoes. Crafted with premium materials and 
         innovative design, these shoes are perfect for both casual 
-        outings and intense workouts (please dont change anything it's already fixed). `
+        outings and intense workouts. `
     },
     {
         id: 2,
