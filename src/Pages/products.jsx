@@ -9,7 +9,7 @@ const products = [
         name: "Nike",
         price: 200000,
         image: "/images/img1.jpg",
-        description: `Step up your style game with these sleek and 
+        description: `Step up your style gamesss with these sleek and 
         comfortable Nike shoes. Crafted with premium materials and 
         innovative design, these shoes are perfect for both casual 
         outings and intense workouts (please dont change anything it's already fixed). `
